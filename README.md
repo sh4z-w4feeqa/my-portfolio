@@ -24,9 +24,12 @@ This is a personal portfolio website built using HTML, CSS and JavaScript. It sh
 
 ![Image](https://github.com/user-attachments/assets/76916e06-0447-4ad7-b9fa-7ebf376c2859)
 
-![Image](https://github.com/user-attachments/assets/04e0f640-fb8a-4f16-8d20-72d8486387c9)
+![Image](https://github.com/user-attachments/assets/1a69da54-c1ef-43c6-b70c-25ad2d80be28)
 
-![Image](https://github.com/user-attachments/assets/596e8a70-9fee-4565-b39a-fba6042dd9a3)
+![Image](https://github.com/user-attachments/assets/1f2ef8a0-a728-41ea-bcf1-795d0badcf53)
+
+![Image](https://github.com/user-attachments/assets/052e863f-c427-4339-8482-fac36d5c741a)
+
 
 Click here to view: https://d18mn2ckm032c7.cloudfront.net/
 
