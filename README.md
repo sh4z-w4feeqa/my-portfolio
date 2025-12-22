@@ -1,8 +1,8 @@
-# my-portfolio
+# cosmic-themed-portfolio
 
 **Interactive Portfolio:**
 
-This is a fully responsive and interactive personal portfolio website built using HTML (Integrated with CSS and JavaScript). It showcases my skills, projects, certifications, and contact details with a modern UI and smooth user interactions.
+This is a personal portfolio website built using HTML, CSS and JavaScript. It showcases my skills, projects, certifications, and contact details with a modern UI and smooth user interactions.
 
 **Features:**
 * Starfield Zoom overlay intro
@@ -21,15 +21,11 @@ This is a fully responsive and interactive personal portfolio website built usin
 
 
 **Preview:**
-Image
+![Image](https://github.com/user-attachments/assets/596e8a70-9fee-4565-b39a-fba6042dd9a3)
 
-Image
+![Image](https://github.com/user-attachments/assets/04e0f640-fb8a-4f16-8d20-72d8486387c9)
 
-Image
-
-Image
-
-Image
+![Image](https://github.com/user-attachments/assets/76916e06-0447-4ad7-b9fa-7ebf376c2859)
 
 Click here to view: https://d18mn2ckm032c7.cloudfront.net/
 
