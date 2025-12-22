@@ -43,9 +43,9 @@ Deployment Steps (Summary):
 4. Configure bucket policy so that only CloudFront has access to the bucket. 
 5. The website is securely hosted and accessible via a public CloudFront link.
 
-Image
+![Image](https://github.com/user-attachments/assets/2ce8ee50-6d75-46c2-81ef-68d95009624d)
 
-Image
+![Image](https://github.com/user-attachments/assets/b894f918-550d-4237-8778-08ea43476b2c)
 About Me o(〃＾▽＾〃)o
 Saranya R
 B.E. Computer Science & Engineering (Cybersecurity)
