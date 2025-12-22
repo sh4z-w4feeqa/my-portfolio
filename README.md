@@ -21,11 +21,12 @@ This is a personal portfolio website built using HTML, CSS and JavaScript. It sh
 
 
 **Preview:**
+
+![Image](https://github.com/user-attachments/assets/76916e06-0447-4ad7-b9fa-7ebf376c2859)
+
 ![Image](https://github.com/user-attachments/assets/596e8a70-9fee-4565-b39a-fba6042dd9a3)
 
 ![Image](https://github.com/user-attachments/assets/04e0f640-fb8a-4f16-8d20-72d8486387c9)
-
-![Image](https://github.com/user-attachments/assets/76916e06-0447-4ad7-b9fa-7ebf376c2859)
 
 Click here to view: https://d18mn2ckm032c7.cloudfront.net/
 
