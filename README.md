@@ -2,7 +2,8 @@
 
 **Interactive Portfolio:**
 
-This is a personal portfolio website built using HTML, CSS and JavaScript. It showcases my skills, projects, certifications, and contact details with a modern UI and smooth user interactions.
+This is a personal portfolio website built using HTML, CSS and JavaScript. It showcases my skills, projects, certifications, and contact details with a cosmic background and shooting star animations.
+
 
 **Features:**
 * Starfield Zoom overlay intro
