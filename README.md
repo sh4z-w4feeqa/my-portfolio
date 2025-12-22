@@ -56,5 +56,7 @@ AWS Skill Builder: https://skillsprofile.skillbuilder.aws/user/shaziya-wafeeqa-s
 
 Credly: https://www.credly.com/users/shaziya-wafeeqa-s/badges#credly
 
+
 **License:**
+
 This project is intended for personal and educational use.
