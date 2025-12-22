@@ -49,9 +49,12 @@ Deployment Steps (Summary):
 
 Connect With Me 
 LinkedIn: https://www.linkedin.com/in/shaziya-wafeeqa-s/
+
 GitHub: https://github.com/sh4z-w4feeqa
+
 AWS Skill Builder: https://skillsprofile.skillbuilder.aws/user/shaziya-wafeeqa-s/certification-badges
+
 Credly: https://www.credly.com/users/shaziya-wafeeqa-s/badges#credly
 
-License:
+**License:**
 This project is intended for personal and educational use.
