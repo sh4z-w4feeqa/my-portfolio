@@ -23,7 +23,7 @@ This is a personal portfolio website built using HTML, CSS and JavaScript. It sh
 
 **Preview:**
 
-![Image](https://github.com/user-attachments/assets/76916e06-0447-4ad7-b9fa-7ebf376c2859)
+![Image](https://github.com/user-attachments/assets/736f366f-3081-4795-82fe-d0c91d46b2f6)
 
 ![Image](https://github.com/user-attachments/assets/1f2ef8a0-a728-41ea-bcf1-795d0badcf53)
 
