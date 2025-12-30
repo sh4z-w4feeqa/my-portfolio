@@ -31,6 +31,7 @@ This is a personal portfolio website built using HTML, CSS and JavaScript. It sh
 
 
 Click here to view: 
+
 S3 bucket endpoint: https://shaziya-wafeeqa-portfolio.s3.us-east-1.amazonaws.com/index.html
 
 CloudFront: https://d18mn2ckm032c7.cloudfront.net/?v=2
