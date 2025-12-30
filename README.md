@@ -30,7 +30,7 @@ This is a personal portfolio website built using HTML, CSS and JavaScript. It sh
 ![Image](https://github.com/user-attachments/assets/1a69da54-c1ef-43c6-b70c-25ad2d80be28)
 
 
-Click here to view: https://d18mn2ckm032c7.cloudfront.net/
+Click here to view: https://d18mn2ckm032c7.cloudfront.net/?v=2
 
 **Deployment:**
 The portfolio is deployed using Amazon S3 and AWS CloudFront.
